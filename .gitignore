@@ -1,0 +1,23 @@
+# Archivos de compilación
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de configuración de sistema
+*.DS_Store
+Thumbs.db
+
+# Archivos de dependencias
+*.egg-info/
+*.egg
